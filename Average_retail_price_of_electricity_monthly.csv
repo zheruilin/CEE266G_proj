@@ -1,8 +1,4 @@
-Average retail price of electricity monthly
-https://www.eia.gov/electricity/data/browser/#/topic/7?agg=0,1&geo=000000000004&endsec=vg&linechart=ELEC.PRICE.CA-ALL.M&columnchart=ELEC.PRICE.CA-ALL.M&map=ELEC.PRICE.CA-ALL.M&freq=M&start=200101&end=202209&chartindexed=0&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=
-02:34:31 GMT-0800 (Pacific Standard Time)
-Source: U.S. Energy Information Administration
-Month,California : all sectors cents per kilowatthour
+Month,Price
 Sep 2022,24.34
 Aug 2022,24.81
 Jul 2022,24.18
